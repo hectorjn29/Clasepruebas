@@ -13,11 +13,11 @@ body {
     scroll-behavior: smooth;
     
 }
-/*#header {
+#header {
     min-height: 80px;
     position: sticky;
     top: 0;
-}*/
+}
 
 .nave {
     color: #000000A6;
